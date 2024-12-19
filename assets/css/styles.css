@@ -71,6 +71,7 @@ body{
 
 .card__title:hover{
     color: var(--primary-color);
+    cursor: pointer;
 }
 
 .card__description{
